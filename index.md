@@ -1,7 +1,7 @@
 
 <code> 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,9 +12,7 @@
 
 </head>
 <body>
-    <div align="center"> 
-        <img align="center" alt="analisis" src=https://github.com/zLowy/zLowy/blob/main/Neon%20Green%20Liquid%20Art%20On%20Trend%20Zoom%20Background.gif>
-    </div>
+     <img align="center" alt="analisis" src=https://github.com/zLowy/zLowy/blob/main/Neon%20Green%20Liquid%20Art%20On%20Trend%20Zoom%20Background.gif>
 
     
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
